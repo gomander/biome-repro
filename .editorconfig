@@ -5,6 +5,7 @@ charset = utf-8
 indent_style = space
 indent_size = 2
 end_of_line = lf
-# Simply comment out the following line to fix the crash
-insert_final_newline = false
 trim_trailing_whitespace = true
+
+[.env]
+insert_final_newline = false
