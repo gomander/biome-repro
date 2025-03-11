@@ -1,0 +1,16 @@
+{
+  "name": "biome-repro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check": "biome check",
+    "format": "biome format",
+    "lint": "biome lint"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
+  },
+  "engines": {
+    "node": ">= 22.13.0"
+  }
+}
